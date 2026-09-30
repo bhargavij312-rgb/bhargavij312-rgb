@@ -11,7 +11,7 @@
 
 [![Profile Views](https://hits.sh/github.com/bhargavij312-rgb.svg?style=for-the-badge&label=Profile%20Views&color=8b5cf6&labelColor=1e1e2e)](https://hits.sh/github.com/bhargavij312-rgb/)
 [![GitHub followers](https://img.shields.io/github/followers/bhargavij312-rgb?style=for-the-badge&logo=github&color=ec4899&labelColor=1e1e2e)](https://github.com/bhargavij312-rgb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargavi-j-0442a02a7/)
 
 </div>
 
