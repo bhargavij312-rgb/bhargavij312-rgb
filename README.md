@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Hi,%20I'm%20Bhargavi&fontSize=52&fontAlignY=38&desc=Robotics%20%26%20Automation%20Engineer%20in%20the%20making%20•%20Python%20•%20ML%20•%20MERN%20•%20GenAI&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+things+that+think+🤖;Turning+ideas+into+working+apps+🚀;Full+Stack+%2B+Machine+Learning+%2B+GenAI;Always+learning%2C+always+shipping+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+things+that+think;Turning+ideas+into+working+apps;Full+Stack+%2B+Machine+Learning+%2B+GenAI;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhargavij312-rgb&label=Profile%20Views&color=8b5cf6&style=for-the-badge)
+[![Profile Views](https://hits.sh/github.com/bhargavij312-rgb.svg?style=for-the-badge&label=Profile%20Views&color=8b5cf6&labelColor=1e1e2e)](https://hits.sh/github.com/bhargavij312-rgb/)
 [![GitHub followers](https://img.shields.io/github/followers/bhargavij312-rgb?style=for-the-badge&logo=github&color=ec4899&labelColor=1e1e2e)](https://github.com/bhargavij312-rgb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
@@ -152,57 +152,7 @@ class Bhargavi:
 
 <img src="https://streak-stats.demolab.com/?user=bhargavij312-rgb&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=bhargavij312-rgb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Needs the GitHub Action below to generate this image -->
-<img src="https://raw.githubusercontent.com/bhargavij312-rgb/bhargavij312-rgb/output/github-snake-dark.svg" alt="snake animation" />
-
-</div>
-
-<details>
-<summary>⚙️ Setup for the snake (click to expand)</summary>
-
-1. Make sure your profile repo is named exactly `bhargavij312-rgb`.
-2. Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Run the workflow once from the **Actions** tab.
-
-</details>
 
 ---
 
