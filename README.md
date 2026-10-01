@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Hi,%20I'm%20Bhargavi&fontSize=52&fontAlignY=38&desc=Robotics%20%26%20Automation%20Engineer%20in%20the%20making%20•%20Python%20•%20ML%20•%20MERN%20•%20GenAI&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Hi%2C%20I%20am%20Bhargavi&fontSize=52&fontAlignY=38&desc=Robotics%20%26%20Automation%20Engineer%20%7C%20Python%20%7C%20ML%20%7C%20MERN%20%7C%20GenAI&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+things+that+think;Turning+ideas+into+working+apps;Full+Stack+%2B+Machine+Learning+%2B+GenAI;Always+learning%2C+always+shipping" alt="Typing SVG" />
